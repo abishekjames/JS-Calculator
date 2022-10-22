@@ -1,7 +1,7 @@
 
-var val1 = null;
-var val2 = null;
-var operator = null;
+let val1 = null;
+let val2 = null;
+let operator = null;
 const OP = ["+", "-", "*", "/"]; 
 
 const DISPLAY = document.querySelector("#DisplayItem");
