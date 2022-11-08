@@ -1,5 +1,5 @@
 # JS-Calculator
- Here is my link to my Calculator [Click here](https://abishekjames.github.io/JS-Calculator/)
+ Here is link to my Calculator [Click here](https://abishekjames.github.io/JS-Calculator/)
 
 ![This is a image](https://github.com/abishekjames/JS-Calculator/blob/main/images/Screenshot%20(249).png)
 
